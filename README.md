@@ -10,6 +10,12 @@
 ### About The Project
 This project is a desktop chess application developed using **C#** and **WPF (Windows Presentation Foundation)**. It features custom chess logic, FEN string representation, and standard rule implementations.
 
+### 🏃 How to Run
+1. Clone or download the repository.
+2. Open `ChessApp.sln` with Visual Studio.
+3. In Solution Explorer, right-click **`ChessUI`** and select **Set as Startup Project**.
+4. Press `F5` or click **Start** to run the app.
+
 ### 🛠️ Built With / Technologies Used
 * **Language:** C#
 * **Framework:** .NET / WPF
@@ -34,6 +40,12 @@ This project is a desktop chess application developed using **C#** and **WPF (Wi
 
 ### Proje Hakkında
 Bu proje, **C#** ve **WPF (Windows Presentation Foundation)** kullanılarak geliştirilmiş bir masaüstü satranç uygulamasıdır. Nesne yönelimli mimari, FEN dizilimi ve temel satranç kurallarını içerir.
+
+### 🏃 Nasıl Çalıştırılır
+1. Projeyi bilgisayarınıza indirin (Clone veya Download).
+2. Visual Studio ile `ChessApp.sln` dosyasını açın.
+3. Solution Explorer (Çözüm Gezgini) panelinde **`ChessUI`** projesine sağ tıklayıp **Set as Startup Project (Başlangıç Projesi Olarak Ayarla)** seçeneğini seçin.
+4. `F5` tuşuna basarak veya **Start (Başlat)** butonuna tıklayarak uygulamayı çalıştırın.
 
 ### 🛠️ Kullanılan Teknolojiler
 * **Programlama Dili:** C#
